@@ -5,18 +5,19 @@
 
 解决不同语言情景下，text、image、rawimage的属性变化
 ![image-20231030221257451](https://github.com/TheFatRat0/LanguageUtil/assets/56471373/c6fd49f8-986b-4018-9964-85af4624b30b)
-![image-20231030221257451](https://github.com/TheFatRat0/LanguageUtil/assets/56471373/a7d276e0-cc6a-4902-8664-c51ce61f77e9)
+![image-20231030221245477](https://github.com/TheFatRat0/LanguageUtil/assets/56471373/d7170eca-23f3-448e-92a3-d29203a02b06)
+
 
 解决不同语言情景下，gameObject的是否显示、rectTransform的属性变化
 ![image-20231030221416708](https://github.com/TheFatRat0/LanguageUtil/assets/56471373/53b574ac-e689-4662-a445-995d8da3a9fa)
-![image-20231030221430335](https://github.com/TheFatRat0/LanguageUtil/assets/56471373/e31fa227-8496-4afe-bee9-bbce36bbca7c)
+![image-20231030221430335](https://github.com/TheFatRat0/LanguageUtil/assets/56471373/794e7bc3-c09c-4f6b-876f-420916eed583)
 
 text-textLanguage、image-imageLanguage、rawimage-rawimageLanguage的无损转换
-![image-20231030221416708](https://github.com/TheFatRat0/LanguageUtil/assets/56471373/fe801c59-9bda-4aaf-b38f-52be0eb1081f)
-![image-20231030221416708](https://github.com/TheFatRat0/LanguageUtil/assets/56471373/d3559646-bd82-48f3-ba21-31fbf7b1ac66)
+![image-20231030220850648](https://github.com/TheFatRat0/LanguageUtil/assets/56471373/fe6df0a3-6191-41bd-9aa3-33fed5cf9288)
+![image-20231030220911885](https://github.com/TheFatRat0/LanguageUtil/assets/56471373/b672748e-aedb-4d64-825f-5b620503a7df)
 
 符合AssetBundle分语言包打包的方式，组件采用弱引用的方式，不会将资源打进同一个moudle包中
-![image-20231030221416708](https://github.com/TheFatRat0/LanguageUtil/assets/56471373/eb262a50-2e24-4506-af6e-9d8d084bcd8f)
+![image-20231030221453514](https://github.com/TheFatRat0/LanguageUtil/assets/56471373/b17ae634-0708-4767-92bf-4c292b97072c)
 
 ## TODO
 
